@@ -1,0 +1,23 @@
+{
+  "name": "tracking-backend",
+  "version": "1.0.0",
+  "description": "tracking backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsabubakarshf/tracking-backend.git"
+  },
+  "keywords": [
+    "treacking",
+    "abubakarshf"
+  ],
+  "author": "abubakarshf and aasavari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsabubakarshf/tracking-backend/issues"
+  },
+  "homepage": "https://github.com/itsabubakarshf/tracking-backend#readme"
+}
